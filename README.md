@@ -15,6 +15,8 @@ The goal: understand how modern robot learning actually works by running every p
 
 Each doc in `docs/` follows the same shape: what I tried, the numbers I got, and the list of things that broke before it worked. The failure notes are the point - they were the expensive part.
 
+Beyond the experiment logs, two living docs track the direction of travel: [frontier notes](docs/frontier-2026q4.md) (what the field is converging on, with a reading list) and the [roadmap](docs/roadmap.md) (knowledge gaps, resources, timeline).
+
 ## Why this exists
 
 Most "getting started" material stops at `pip install` and a happy-path demo. The gap between that and actually running experiments on constrained hardware is where I spent most of my time, so this repo records the whole gap: version archaeology, driver quirks, memory limits, and the workarounds.
