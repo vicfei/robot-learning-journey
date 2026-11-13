@@ -12,6 +12,7 @@ The goal: understand how modern robot learning actually works by running every p
 | 02 | Quadrupeds, both ways: MIT Cheetah MPC (model-based) and Unitree Go1 with MJX PPO (learning-based) | done |
 | 03 | VLA models: OpenVLA-7B 4-bit inference vs smolvla-450M fine-tuning | done |
 | 04 | LCM -> ROS 2 bridge to watch a 2019-era MPC stack in rviz | done |
+| 05 | Real arms: SO-101 bring-up -> CreateBlock 5-DOF (Jetson) — jam recovery, closed-loop grasp | done |
 
 Each doc in `docs/` follows the same shape: what I tried, the numbers I got, and the list of things that broke before it worked. The failure notes are the point - they were the expensive part.
 
