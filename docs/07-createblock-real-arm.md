@@ -1,7 +1,7 @@
 # 07 · CreateBlock 五自由度臂真机实践（2026-11-08 ~ 11-14）
 
 > SO-101 退役后的接棒硬件。完整技术档案与 executor 规格在
-> `so_arm_agent/docs/08-createblock-arm-integration.md`（本篇为实践视角的姊妹记录，
+> `RoboHarness docs (https://github.com/vicfei/RoboHarness)`（本篇为实践视角的姊妹记录，
 > 含两次翻车复盘与首次全自动闭环抓取）。
 
 ## 时间线
